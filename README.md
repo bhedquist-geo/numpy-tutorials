@@ -1,3 +1,11 @@
+> **Note from Brent:** This is a fork of the official [NumPy tutorials repository](https://github.com/numpy/numpy-tutorials), kept here as my personal practice space while learning NumPy, Git, and GitHub workflows. It is **not production work or original research** — it's a training ground for working through NumPy's own tutorials and getting comfortable with forking, branching, and committing on GitHub.
+>
+> My own completed work in this fork: [`numpy_tutorial_linear_regression_ols.ipynb`](numpy_tutorial_linear_regression_ols.ipynb) — a walkthrough of Moore's Law using a linear regression model, comparing the model's prediction against real transistor-count data through 2017 to illustrate how the doubling rate slowed in the recent decade.
+>
+> I'm keeping this public as an example for my graduate GIS students of what a "learning in progress" repo looks like — not every repo needs to be polished, some are just practice reps. See the original NumPy project README below for the rest of the tutorial content this fork is based on.
+
+---
+
 # NumPy tutorials
 
 _For the rendered tutorials, see https://numpy.org/numpy-tutorials/._
